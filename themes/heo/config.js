@@ -40,8 +40,8 @@ const CONFIG = {
   // 用户技能图标
   GROUP_ICONS: [
     {
-      title_1: 'Ace Attorney',
-      img_1: '/images/heo/Ace Attorney.webp',
+      title_1: 'AceAttorney',
+      img_1: '/images/heo/AceAttorney.webp',
       color_1: '#989bf8',
       title_2: 'Nintendo',
       img_2: '/images/heo/Nintendo.webp',
